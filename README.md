@@ -1,9 +1,11 @@
 # Multi-Factor-Three-Dimensional-Risk-Field-Modeling-for-Urban-UAV-Path-Planning
 Code, processed data and results for Multi-Factor Three-Dimensional Risk Field Modeling for Urban UAV Path Planning.
 
+The updated package includes six origin–destination pairs, paired parameter sensitivity analyses, and route-interior height-error experiments, together with code, processed inputs, and reference results.
+
 Download and use
 
-1. Download the [reproducibility package](./Reproducibility_package_title_checked_20261013.zip).
+1. Download the [latest reproducibility package](UAV_Planning_Reproducibility_revision2_20261108.zip).
 2. Extract the archive and open the `UAV_Planning_Reproducibility` folder.
 3. Follow the enclosed `README.md` for installation, experiment execution and verification.
 
